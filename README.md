@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Timera 👋
 
-<!--
-**Timera-ctrl/Timera-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Artificial Intelligence and Computer Science student at the University of Cape Town, with a growing interest in machine learning, intelligent systems and software engineering.
 
-Here are some ideas to get you started:
+## Areas I am interested in
+- Machine Learning and Artificial Intelligence
+- Reinforcement Learning
+- Parallel and Concurrent Computing
+- Algorithms and Data Structures
+- Backend and Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Python
+- Java
+- C
+- JavaScript
+- Git and GitHub
+- Linux / WSL
+- Jupyter Notebook
+
+## Current focus
+- Completing my BSc in Artificial Intelligence and Computer Science
+- Building stronger machine-learning and software-engineering portfolio
+- Preparing for postgraduate stufy and graduate opportunities
